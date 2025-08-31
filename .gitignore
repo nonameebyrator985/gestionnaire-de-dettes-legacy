@@ -11,3 +11,5 @@ build/
 *.bak
 *.swp
 .vscode/
+*.DS_Store
+Thumbs.db
