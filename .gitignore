@@ -6,3 +6,5 @@ dist/
 coverage/
 logs/
 build/
+*.tmp
+*.log
