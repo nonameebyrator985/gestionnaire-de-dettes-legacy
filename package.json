@@ -1,6 +1,6 @@
 {
   "name": "gestionnaire-de-dettes-legacy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gestionnaire de dettes entre amis et famille",
   "main": "src/index.js",
   "scripts": {
