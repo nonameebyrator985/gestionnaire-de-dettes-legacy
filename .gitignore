@@ -13,3 +13,6 @@ build/
 .vscode/
 *.DS_Store
 Thumbs.db
+*.local
+*.sublime-project
+*.sublime-workspace
