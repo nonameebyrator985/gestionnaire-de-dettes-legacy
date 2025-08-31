@@ -10,3 +10,4 @@ build/
 *.log
 *.bak
 *.swp
+.vscode/
